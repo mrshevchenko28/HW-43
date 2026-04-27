@@ -5,4 +5,4 @@
 4) I made Navbar using NavLink to make better navigation links between the pages
 5) I made NoPage component in case of wrong URL adress
 6) I made Layout component to minimize Navigation code and stay on web-page when switching between the pages  
-5) I Use Vercel to deploy my app: 
+5) I Use Vercel to deploy my app: https://hw-43-gamma.vercel.app/
